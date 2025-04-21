@@ -32,8 +32,7 @@ This repository showcases two case study projects built for Flight Schedule Pro 
 
 - SQL (BigQuery)
 - Looker Studio
-- Python (Pandas, Matplotlib)
-- Canva (Design & Layout)
+- Keynote (Design & Layout)
 
 ---
 
